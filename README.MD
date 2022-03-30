@@ -1,1 +1,1 @@
-# gIT TUTORIAL
+# Git tutorial
